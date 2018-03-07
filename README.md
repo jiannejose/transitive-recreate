@@ -2,6 +2,9 @@
 
 This is a recreation of a website "Transitive" for practice.
 
+My output is right here:
+https://jiannejose.github.io/transitive-recreate/
+
 
 
 Update:
